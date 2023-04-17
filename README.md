@@ -8,6 +8,7 @@ Dev junior apaioxonado por tecnologia e em Busca da primeira oportunidade, sempr
 
 
 ![iago8311 GitHub stats](https://github-readme-stats.vercel.app/api?username=iago8311&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iago8311)](https://github.com/iago8311/github-readme-stats)
 
 ## Tecnologia que uso no meu dia-a-dia
 <div style="display:inline_block"><br/>
