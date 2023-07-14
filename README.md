@@ -25,9 +25,5 @@ Dev junior apaioxonado por tecnologia e em Busca da primeira oportunidade, sempr
 <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div><BR/>
 
-## Estou Aprendendo 
-
-
-
 </div><br/>
 
