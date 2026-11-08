@@ -1,6 +1,38 @@
 ### Olá! Eu sou o Iago Rafael 👋
 
-Dev  apaioxonado por tecnologia e em Busca da primeira oportunidade, sempre aprendendo a cada dia 
+
+Olá! Eu sou o Iago Rafael 👋
+Estudante de Tecnologia com foco em Cybersegurança, Pentest e Segurança Ofensiva.
+
+🎯 Atualmente estudando:
+
+Kali Linux
+Linux
+Redes de Computadores
+Nmap
+Medusa
+OWASP Top 10
+Segurança Web
+Metasploitable 2
+DVWA
+📚 Certificações e Cursos
+
+Formação Cybersecurity DIO
+Bootcamps DIO
+Estudos práticos em laboratórios controlados
+🛠 Ferramentas
+
+Kali Linux
+Nmap
+Wireshark
+Burp Suite
+Medusa
+Git e GitHub
+🚀 Projetos
+
+Simulação de Força Bruta com Kali Linux e Medusa
+Laboratório com DVWA
+Estudos em Metasploitable 2
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagorafael_m/)
 [![Lin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-rafael-b93ab9244/)
