@@ -1,6 +1,3 @@
-### Olá! Eu sou o Iago Rafael 👋
-
-
 Olá! Eu sou o Iago Rafael 👋
 Estudante de Tecnologia com foco em Cybersegurança, Pentest e Segurança Ofensiva.
 
