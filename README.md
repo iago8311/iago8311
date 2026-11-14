@@ -1,35 +1,35 @@
-
 # 👨‍💻 Iago Rafael
 
-Estudante de Cybersecurity \| Pentest \| Segurança Ofensiva \| Ethical Hacking
+<div align="center">
 
-Bem\-vindo ao meu perfil\!
+### 🛡️ Cybersecurity Student | Pentest | Linux | Web Security | Ethical Hacking
 
-Sou estudante de Tecnologia com foco em Cybersecurity e Segurança Ofensiva. Atualmente dedico meus estudos ao desenvolvimento de habilidades em Pentest, Segurança Web, Análise de Vulnerabilidades, Redes e Linux através de laboratórios práticos e ambientes controlados.
-
-Meu objetivo é construir uma carreira sólida na área de Segurança da Informação, contribuindo para a identificação e mitigação de vulnerabilidades em sistemas e aplicações.
+</div>
 
 ---
 
-## 🚀 Áreas de Interesse
+## 🚀 Sobre Mim
 
-🔹 Pentest Web
+Sou estudante de Tecnologia com foco em **Cybersecurity** e **Segurança Ofensiva**.
 
-🔹 Ethical Hacking
+Atualmente desenvolvo habilidades em **Pentest**, **Segurança Web**, **Linux**, **Redes de Computadores** e **Análise de Vulnerabilidades** através de laboratórios práticos e ambientes controlados.
 
-🔹 Red Team
+Meu objetivo é construir uma carreira sólida em Segurança da Informação, contribuindo para a identificação, análise e mitigação de vulnerabilidades em sistemas e aplicações.
 
-🔹 Segurança Ofensiva
+---
 
-🔹 Cybersecurity
+## 🎯 Áreas de Interesse
 
-🔹 Redes de Computadores
-
-🔹 Linux
-
-🔹 Automação com Python
-
-🔹 Análise de Vulnerabilidades
+- Pentest Web
+- Ethical Hacking
+- Red Team
+- Segurança Ofensiva
+- Cybersecurity
+- Linux
+- Redes de Computadores
+- Segurança Web
+- Análise de Vulnerabilidades
+- Automação com Python
 
 ---
 
@@ -38,11 +38,11 @@ Meu objetivo é construir uma carreira sólida na área de Segurança da Informa
 - Kali Linux
 - Linux Fundamentals
 - Redes e Protocolos TCP/IP
-- Segurança Web
-- OWASP Top 10
 - Nmap
 - Wireshark
 - Burp Suite
+- OWASP Top 10
+- Segurança Web
 - Python para Cybersecurity
 - Metasploitable 2
 - DVWA
@@ -54,33 +54,33 @@ Meu objetivo é construir uma carreira sólida na área de Segurança da Informa
 
 ### Sistemas Operacionais
 
-![Linux](UnableToLoadUrl)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Kali Linux](UnableToLoadUrl)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### Segurança Ofensiva
 
-![Nmap](UnableToLoadUrl)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 
-![Burp Suite](UnableToLoadUrl)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![Wireshark](UnableToLoadUrl)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-![OWASP](UnableToLoadUrl)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 
 ### Desenvolvimento e Automação
 
-![Python](UnableToLoadUrl)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Git](UnableToLoadUrl)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub](UnableToLoadUrl)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🎓 Formação e Certificações
 
-✅ Formação Cybersecurity \- DIO
+✅ Formação Cybersecurity - DIO
 
 ✅ Bootcamps DIO
 
@@ -95,43 +95,50 @@ Meu objetivo é construir uma carreira sólida na área de Segurança da Informa
 ## 🔬 Projetos e Laboratórios
 
 ### 🛡️ Laboratório DVWA
-
 Estudos de vulnerabilidades web utilizando ambiente vulnerável para aprendizado de Segurança Ofensiva.
 
 ### 🌐 Enumeração e Reconhecimento com Nmap
-
 Mapeamento de serviços, reconhecimento de hosts e análise de portas.
 
 ### 📡 Análise de Tráfego com Wireshark
-
 Captura e interpretação de pacotes em ambientes de laboratório.
 
 ### 🐍 Python para Cybersecurity
-
-Scripts educacionais para automação e compreensão de conceitos de segurança.
+Scripts educacionais voltados para automação e aprendizado em segurança da informação.
 
 ### 🧪 Metasploitable 2 Lab
-
-Estudos em ambiente propositalmente vulnerável para aprendizado de técnicas defensivas e ofensivas.
-
----
-
-## 📈 Estatísticas GitHub
-
-![GitHub Stats](UnableToLoadUrl)
-
-![Top Langs](UnableToLoadUrl)
+Prática em ambiente propositalmente vulnerável para fins educacionais.
 
 ---
 
-## 📬 Conecte\-se Comigo
+## 📊 Estatísticas GitHub
 
-![LinkedIn](UnableToLoadUrl)
+<div align="center">
 
-![Instagram](UnableToLoadUrl)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago8311&show_icons=true&theme=merko" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago8311&layout=compact&theme=merko" />
+
+</div>
 
 ---
 
-⚠️ Todos os estudos, laboratórios e projetos presentes neste perfil possuem finalidade exclusivamente educacional e são realizados em ambientes autorizados e controlados.
+## 📬 Conecte-se Comigo
+
+<a href="https://www.linkedin.com/in/iago-rafael-b93ab9244/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/iagorafael_m/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+## ⚠️ Aviso
+
+Todos os estudos, laboratórios e projetos presentes neste perfil possuem finalidade exclusivamente educacional e são realizados em ambientes autorizados e controlados.
+
+Sempre atuando de acordo com princípios éticos e boas práticas da Segurança da Informação.
 
 
