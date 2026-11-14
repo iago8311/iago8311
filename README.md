@@ -1,62 +1,137 @@
 
-Olá! Eu sou o Iago Rafael 👋
-Estudante de Tecnologia com foco em Cybersegurança, Pentest e Segurança Ofensiva.
+# 👨‍💻 Iago Rafael
 
-🎯 Atualmente estudando:
+Estudante de Cybersecurity \| Pentest \| Segurança Ofensiva \| Ethical Hacking
 
-Kali Linux
-Linux
-Redes de Computadores
-Nmap
-Medusa
-OWASP Top 10
-Segurança Web
-Metasploitable 2
-DVWA
-📚 Certificações e Cursos
+Bem\-vindo ao meu perfil\!
 
-Formação Cybersecurity DIO
-Bootcamps DIO
-Estudos práticos em laboratórios controlados
-🛠 Ferramentas
+Sou estudante de Tecnologia com foco em Cybersecurity e Segurança Ofensiva. Atualmente dedico meus estudos ao desenvolvimento de habilidades em Pentest, Segurança Web, Análise de Vulnerabilidades, Redes e Linux através de laboratórios práticos e ambientes controlados.
 
-Kali Linux
-Nmap
-Wireshark
-Burp Suite
-Medusa
-Git e GitHub
-🚀 Projetos
+Meu objetivo é construir uma carreira sólida na área de Segurança da Informação, contribuindo para a identificação e mitigação de vulnerabilidades em sistemas e aplicações.
 
-Simulação de Força Bruta com Kali Linux e Medusa
-Laboratório com DVWA
-Estudos em Metasploitable 2
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagorafael_m/)
-[![Lin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-rafael-b93ab9244/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://account.microsoft.com/profile/?refd=outlook.live.com)
+## 🚀 Áreas de Interesse
+
+🔹 Pentest Web
+
+🔹 Ethical Hacking
+
+🔹 Red Team
+
+🔹 Segurança Ofensiva
+
+🔹 Cybersecurity
+
+🔹 Redes de Computadores
+
+🔹 Linux
+
+🔹 Automação com Python
+
+🔹 Análise de Vulnerabilidades
+
+---
+
+## 📚 Atualmente Estudando
+
+- Kali Linux
+- Linux Fundamentals
+- Redes e Protocolos TCP/IP
+- Segurança Web
+- OWASP Top 10
+- Nmap
+- Wireshark
+- Burp Suite
+- Python para Cybersecurity
+- Metasploitable 2
+- DVWA
+- Hardening de Sistemas
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+### Sistemas Operacionais
+
+![Linux](UnableToLoadUrl)
+
+![Kali Linux](UnableToLoadUrl)
+
+### Segurança Ofensiva
+
+![Nmap](UnableToLoadUrl)
+
+![Burp Suite](UnableToLoadUrl)
+
+![Wireshark](UnableToLoadUrl)
+
+![OWASP](UnableToLoadUrl)
+
+### Desenvolvimento e Automação
+
+![Python](UnableToLoadUrl)
+
+![Git](UnableToLoadUrl)
+
+![GitHub](UnableToLoadUrl)
+
+---
+
+## 🎓 Formação e Certificações
+
+✅ Formação Cybersecurity \- DIO
+
+✅ Bootcamps DIO
+
+✅ Laboratórios Práticos com Kali Linux
+
+✅ Estudos de Segurança Web
+
+✅ Ambientes Vulneráveis (DVWA e Metasploitable 2)
+
+---
+
+## 🔬 Projetos e Laboratórios
+
+### 🛡️ Laboratório DVWA
+
+Estudos de vulnerabilidades web utilizando ambiente vulnerável para aprendizado de Segurança Ofensiva.
+
+### 🌐 Enumeração e Reconhecimento com Nmap
+
+Mapeamento de serviços, reconhecimento de hosts e análise de portas.
+
+### 📡 Análise de Tráfego com Wireshark
+
+Captura e interpretação de pacotes em ambientes de laboratório.
+
+### 🐍 Python para Cybersecurity
+
+Scripts educacionais para automação e compreensão de conceitos de segurança.
+
+### 🧪 Metasploitable 2 Lab
+
+Estudos em ambiente propositalmente vulnerável para aprendizado de técnicas defensivas e ofensivas.
+
+---
+
+## 📈 Estatísticas GitHub
+
+![GitHub Stats](UnableToLoadUrl)
+
+![Top Langs](UnableToLoadUrl)
+
+---
+
+## 📬 Conecte\-se Comigo
+
+![LinkedIn](UnableToLoadUrl)
+
+![Instagram](UnableToLoadUrl)
+
+---
+
+⚠️ Todos os estudos, laboratórios e projetos presentes neste perfil possuem finalidade exclusivamente educacional e são realizados em ambientes autorizados e controlados.
 
 
-![iago8311 GitHub stats](https://github-readme-stats.vercel.app/api?username=iago8311&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iago8311)](https://github.com/iago8311/github-readme-stats)
-
-## 🛡️ Tecnologias e Ferramentas de Cybersecurity
-
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img align="center" alt="Nmap" src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
-
-<img align="center" alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img align="center" alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white"/>
-
-<img align="center" alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-
-</div><BR/>
